@@ -164,7 +164,7 @@ header {
     grid-template-areas:
       "supervisor team       calculator"
       "supervisor karma      calculator";
-    gap: 2rem;
+    gap: 3.2rem;
     max-width: 111rem;
     margin-inline: auto;
   }
